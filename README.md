@@ -7,4 +7,3 @@ If you have problems with spotify-web dm me on discord: tomel999 !!!
 
 ```
 curl -s https://raw.githubusercontent.com/tomel999rewtwetwed/install-script-spotify/refs/heads/main/install-eng.sh | bash
-****
