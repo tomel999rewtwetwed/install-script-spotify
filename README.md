@@ -12,5 +12,7 @@ sudo apt update
 sudo apt install curl -y
 ```
 
+***SCRIPT***
+
 ```
 curl -s https://raw.githubusercontent.com/tomel999rewtwetwed/install-script-spotify/refs/heads/main/install-eng.sh | bash
