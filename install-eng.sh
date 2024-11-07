@@ -9,3 +9,5 @@ cd spotify-web || exit 1
 npm install
 
 npm install express discord-rcp
+
+pip install spotdl
