@@ -22,3 +22,8 @@ curl -s https://raw.githubusercontent.com/tomel999rewtwetwed/install-script-spot
 ***DEBIAN SCRIPT***
 ```
 curl -s https://raw.githubusercontent.com/tomel999rewtwetwed/install-script-spotify/refs/heads/main/install-debian-ENG.sh | bash
+```
+
+***ARCH LINUX INSTALL***
+```
+curl -s https://raw.githubusercontent.com/tomel999rewtwetwed/install-script-spotify/refs/heads/main/arch-install-ENG.sh | bash
