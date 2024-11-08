@@ -16,3 +16,9 @@ sudo apt install curl -y
 
 ```
 curl -s https://raw.githubusercontent.com/tomel999rewtwetwed/install-script-spotify/refs/heads/main/install-eng.sh | bash
+```
+
+
+***DEBIAN SCRIPT***
+```
+curl -s https://raw.githubusercontent.com/tomel999rewtwetwed/install-script-spotify/refs/heads/main/install-debian-ENG.sh | bash
