@@ -17,3 +17,5 @@ npm install
 npm install express discord-rpc
 
 pip install spotdl --break-system-packages
+
+spotdl --download-ffmpeg
